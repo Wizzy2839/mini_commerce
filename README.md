@@ -8,22 +8,6 @@
 
 ShopEase adalah aplikasi e-commerce mini berbasis **PHP 8 + MySQL** yang dilengkapi dengan integrasi **Midtrans Snap** sebagai payment gateway. Dibangun dengan tampilan modern menggunakan Tailwind CSS, ShopEase mencakup alur belanja lengkap dari ujung ke ujung — mulai dari registrasi akun, browsing produk, checkout, hingga notifikasi pembayaran otomatis via webhook.
 
----
-
-## 📸 Screenshots
-
-> Tambahkan screenshot aplikasi di sini.
-
-| Beranda | Detail Produk | Checkout |
-|---------|--------------|----------|
-| ![beranda](screenshots/beranda.png) | ![produk](screenshots/produk.png) | ![checkout](screenshots/checkout.png) |
-
-| Dashboard Admin | Laporan Transaksi |
-|----------------|------------------|
-| ![dashboard](screenshots/admin-dashboard.png) | ![laporan](screenshots/admin-laporan.png) |
-
----
-
 ## ✨ Fitur Utama
 
 ### Sisi Pelanggan
