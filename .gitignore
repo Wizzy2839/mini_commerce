@@ -1,0 +1,14 @@
+# File Rahasia & Konfigurasi
+.env
+.env.backup
+.env.production
+
+# Folder Vendor (Library Composer)
+/vendor/
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
